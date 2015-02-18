@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:appname="http://schemas.android.com/apk/res-auto">
+    <!--<item
+        android:id="@+id/action_settings"
+        android:title="Settings"
+        appname:showAsAction = "always">
+
+    </item>-->
+
+</menu>

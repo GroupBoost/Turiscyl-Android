@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Junta</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="api_key_debug">AIzaSyCf-X-gRQzC4OUAZlKlwfx8gauAH5j-tQY</string>
+    <string name="api_key_oficial">AIzaSyCdnE8MPSd7fZ0t5wfh22XMThXcDHb5GZI</string>
+    <string name="title_activity_maps_activity2">Map</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="espNat">Espacios Naturales</string>
+    <string name="load">Cargando datos</string>
+    <string name="title_activity_info_espacio">InfoEspacio</string>
+    <string name="Sendas">sendas</string>
+    <string name="title_activity_lista_contenido">listaContenido</string>
+    <string name="espaciosNaturales">Espacios Naturales</string>
+    <string name="turismo">Turismo</string>
+    <string name="evento">Eventos</string>
+    <string name="mapa">Mapa</string>
+    <string name="txNavigator">Como llegar</string>
+    <string name="sendas">Sendas</string>
+    <string name="alojamientos">Alojamientos</string>
+    <string name="interes">Punto de interes</string>
+    <string name="title_activity_botones_comunidades">BotonesComunidades</string>
+    <string name="title_activity_lista_localidades">listaLocalidades</string>
+    <string name="leon">León</string>
+    <string name="palencia">Palencia</string>
+    <string name="burgos">Burgos</string>
+    <string name="zamora">Zamora</string>
+    <string name="valladolid">Valladolid</string>
+    <string name="soria">Soria</string>
+    <string name="salamanca">Salamanca</string>
+    <string name="avila">Ávila</string>
+    <string name="segovia">Segovia</string>
+    <string name="title_activity_info_localidades">infoLocalidades</string>
+    <string name="monumentos">Monumentos</string>
+    <string name="cafeteria">Cafeteria</string>
+    <string name="title_activity_info_sendas">infoSendas</string>
+    <string name="action_search">busqueda</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="sinConexTitulo">Error en la conexion</string>
+    <string name="sinConexTexto">No pudo realizarse la conexion con el servidor</string>
+    <string name="wifi_connection">The active connection is wifi.</string>
+    <string name="mobile_connection">The active connection is mobile.</string>
+    <string name="no_wifi_or_mobile">No wireless or mobile connection.</string>
+
+
+</resources>
